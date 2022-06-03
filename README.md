@@ -1,5 +1,5 @@
 # DETECTING THE DIRECTION OF A VEHICLE
-This application helps us in finding the direction in which the person is traversing. It is built on Nvidia Deepstream 5.1.
+This application helps us in finding the direction in which the vehicle is traversing. It is built on Nvidia Deepstream 5.1.
 ![Screenshot from 2022-06-03 15-31-08 (1)](https://user-images.githubusercontent.com/48898785/171843719-ae460ee2-0b64-4fff-8b08-722a863711a3.png)
 
 # Deepstream Setup
