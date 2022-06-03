@@ -1,6 +1,6 @@
 # DETECTING THE DIRECTION OF A VEHICLE
 This application helps us in finding the direction in which the person is traversing. It is built on Nvidia Deepstream 5.1.
-![Screenshot from 2022-06-03 15-37-05](https://user-images.githubusercontent.com/48898785/171841388-660b7255-4744-46d0-b032-3a70f881e11a.png)
+![Screenshot from 2022-06-03 15-31-08](https://user-images.githubusercontent.com/48898785/171842645-884f0e44-8788-4629-81a3-5d1e4baeb3be.png)
 # Deepstream Setup
 This post assumes you have a fully functional Jetson device. If not, you can refer the documentation [here](https://docs.nvidia.com/jetson/jetpack/install-jetpack/index.html).
 # 1. Install System Dependencies
