@@ -25,9 +25,9 @@ For more information, click here.
         https://github.com/Spandanahm172/DeepStream
         cd DeepStream
 # 4. Run the application
-I. To build the application
+# I. To build the application
         make
-II. Now, run the application by providing the video source path
+# II. Now, run the application by providing the video source path
         __NV_PRIME_RENDER_OFFLOAD=1 ./deepstream-app video.h264
 
 # Please find the Link of a Demo video below
