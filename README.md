@@ -20,7 +20,7 @@ This post assumes you have a fully functional Jetson device. If not, you can ref
 Download the DeepStream 5.1 Jetson Debian package deepstream-5.1_5.1.0-1_arm64.deb, to the Jetson device from here. Then enter the command:
 
         sudo apt install deepstream-5.1_5.1.0-1_arm64.deb
-For more information, click here.
+For more information, click [here](https://docs.nvidia.com/metropolis/deepstream/dev-guide/index.html)
 # 3. Clone the repository
         https://github.com/Spandanahm172/DeepStream
         cd DeepStream
@@ -28,7 +28,7 @@ For more information, click here.
 # I. To build the application
         make
 # II. Now, run the application by providing the video source path
-        __NV_PRIME_RENDER_OFFLOAD=1 ./deepstream-app video.h264
+        __NV_PRIME_RENDER_OFFLOAD=1 ./deepstream-app <video.h264>
 
 # Please find the Link of a Demo video below
 [video](https://youtu.be/JuYdXGB2WiU)
