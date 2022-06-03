@@ -1,6 +1,7 @@
 # DETECTING THE DIRECTION OF A VEHICLE
 This application helps us in finding the direction in which the person is traversing. It is built on Nvidia Deepstream 5.1.
-![Screenshot from 2022-06-03 15-31-08](https://user-images.githubusercontent.com/48898785/171842645-884f0e44-8788-4629-81a3-5d1e4baeb3be.png)
+![Screenshot from 2022-06-03 15-31-08 (1)](https://user-images.githubusercontent.com/48898785/171843719-ae460ee2-0b64-4fff-8b08-722a863711a3.png)
+
 # Deepstream Setup
 This post assumes you have a fully functional Jetson device. If not, you can refer the documentation [here](https://docs.nvidia.com/jetson/jetpack/install-jetpack/index.html).
 # 1. Install System Dependencies
@@ -21,8 +22,8 @@ Download the DeepStream 5.1 Jetson Debian package deepstream-5.1_5.1.0-1_arm64.d
         sudo apt install deepstream-5.1_5.1.0-1_arm64.deb
 For more information, click here.
 # 3. Clone the repository
-        git clone https://github.com/anu-shreya/person_direction_deepstream.git
-        cd person_direction_deepstream
+        https://github.com/Spandanahm172/DeepStream
+        cd DeepStream
 # 4. Run the application
 I. To build the application
         make
